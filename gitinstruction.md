@@ -103,3 +103,5 @@ error: Cannot delete branch ’mybranch’ checked out at ’/path/to
 The branch ’mybranch’ is not fully merged. If you are sure you want to delete it 
 ```
 и вы по прежнему хотите удалить ветку, то для принудительного удаления ветки можно воспользоваться опцией ***-D***
+
+## Работа с удаленными репозиториями, *Pull request*.
